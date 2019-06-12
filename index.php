@@ -2,7 +2,7 @@
 
 require_once "vendor/autoload.php";
 
-$token = "749615950:AAHdhb8wQo_ykJZBaBc1HzqtwGYdGFLwLpE";
+$token = "749615950:AAGmEavdyn-v25dbx1Q4_aZerrB7dUvjTYY";
 $bot = new \TelegramBot\Api\Client($token);
 
 // команда для start
